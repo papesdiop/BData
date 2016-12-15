@@ -1,5 +1,7 @@
 # BData
 
+Understanding Hadoop and HDP concepts : https://github.com/hortonworks/tutorials/blob/hdp-2.5/tutorials/hortonworks/hello-hdp-an-introduction-to-hadoop/hello-hdp-section-2.md
+
 --- R ---
 
 https://google.github.io/styleguide/Rguide.xml
