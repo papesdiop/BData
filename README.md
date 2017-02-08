@@ -15,3 +15,11 @@ http://hortonworks.com/apache/spark/#tutorials
 http://hortonworks.com/hadoop-tutorial/learning-the-ropes-of-the-hortonworks-sandbox/
 
 http://hortonworks.com/hadoop-tutorial/deploying-hortonworks-sandbox-on-microsoft-azure/
+
+Use cases
+
+https://github.com/zoharsan/RetailAnalytics
+
+https://github.com/hortonworks/hadoop-tutorials/blob/master/Community/T02_Spring_XD_Hadoop_Twitter.md
+
+https://github.com/georgevetticaden/hdp/tree/master/reference-apps/iot-trucking-app
