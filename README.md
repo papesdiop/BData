@@ -23,3 +23,5 @@ https://github.com/zoharsan/RetailAnalytics
 https://github.com/hortonworks/hadoop-tutorials/blob/master/Community/T02_Spring_XD_Hadoop_Twitter.md
 
 https://github.com/georgevetticaden/hdp/tree/master/reference-apps/iot-trucking-app
+
+https://github.com/vakshorton/CreditCardTransactionMonitor
